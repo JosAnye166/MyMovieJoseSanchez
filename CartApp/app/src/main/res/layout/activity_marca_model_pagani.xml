@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Morado"
+    tools:context=".MarcaModelPagani">
+
+    <Button
+        android:id="@+id/bRegresarEstadosSin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/MoradoMedio"
+        android:text="REGRESAR"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <Button
+        android:id="@+id/bLugarCuatro"
+        android:layout_width="170dp"
+        android:layout_height="199dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="12dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:text="@string/ModeloCarro22"
+        android:textAlignment="center"
+        app:icon="@drawable/pagani4"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bLugarDos" />
+
+    <Button
+        android:id="@+id/bLugarTres"
+        android:layout_width="174dp"
+        android:layout_height="197dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro21"
+        android:textAlignment="center"
+        app:icon="@drawable/pagani3"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bLugarUno"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/bLugarUno"
+        android:layout_width="173dp"
+        android:layout_height="185dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="52dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro19"
+        android:textAlignment="center"
+        app:icon="@drawable/pagani1"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/bLugarCinco"
+        android:layout_width="173dp"
+        android:layout_height="197dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro23"
+        android:textAlignment="center"
+        app:icon="@drawable/pagani5"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bLugarTres" />
+
+    <Button
+        android:id="@+id/bLugarSeis"
+        android:layout_width="172dp"
+        android:layout_height="192dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="12dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro24"
+        android:textAlignment="center"
+        app:icon="@drawable/pagani6"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bLugarCuatro" />
+
+    <Button
+        android:id="@+id/bLugarDos"
+        android:layout_width="172dp"
+        android:layout_height="187dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="12dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro20"
+        android:textAlignment="center"
+        app:icon="@drawable/pagani2"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="406dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="4dp"
+        android:background="@color/MoradoMedio"
+        android:fontFamily="sans-serif-condensed"
+        android:paddingTop="7dp"
+        android:text="@string/LtPag"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

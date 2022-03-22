@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Morado"
+    android:orientation="vertical"
+    app:layout_goneMarginBottom="200dp"
+    tools:context=".MarcaModelFerrari">
+
+    <Button
+        android:id="@+id/bRegresarEstadosCam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/MoradoMedio"
+        android:text="REGRESAR"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <Button
+        android:id="@+id/bLugarCuatro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="32dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:text="@string/ModeloCarro4"
+        android:textAlignment="center"
+        app:icon="@drawable/maserati4"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bLugarDos" />
+
+    <Button
+        android:id="@+id/bLugarTres"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro3"
+        android:textAlignment="center"
+        app:icon="@drawable/maserati3"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bLugarUno"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/bLugarUno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="64dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro1"
+        android:textAlignment="center"
+        app:icon="@drawable/maserati1"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/bLugarCinco"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro5"
+        android:textAlignment="center"
+        app:icon="@drawable/maserati5"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bLugarTres" />
+
+    <Button
+        android:id="@+id/bLugarSeis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="32dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro6"
+        android:textAlignment="center"
+        app:icon="@drawable/maserati6"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bLugarCuatro" />
+
+    <Button
+        android:id="@+id/bLugarDos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="32dp"
+        android:backgroundTint="@color/MoradoClaro"
+        android:paddingTop="5dp"
+        android:text="@string/ModeloCarro2"
+        android:textAlignment="center"
+        app:icon="@drawable/maserati2"
+        app:iconGravity="textTop"
+        app:iconPadding="15dp"
+        app:iconSize="125dp"
+        app:iconTintMode="multiply"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="430dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@color/MoradoMedio"
+        android:fontFamily="sans-serif-condensed"
+        android:paddingTop="7dp"
+        android:text="@string/LtMas"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.526"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

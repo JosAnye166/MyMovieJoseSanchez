@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#F34700</color>
+    <color name="purple_500">#DD6737</color>
+    <color name="purple_700">#B32400</color>
+    <color name="teal_200">#DA9203</color>
+    <color name="teal_700">#F3A970</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Purple">#6E7581</color>
+    <color name="Beige">#88A29D</color>
+    <color name="MoradoFuerte">#80A89D</color>
+    <color name="MoradoMedio">#E1B969</color>
+    <color name="Morado">#749F9F</color>
+    <color name="MoradoClaro">#70CC89</color>
+
+</resources>

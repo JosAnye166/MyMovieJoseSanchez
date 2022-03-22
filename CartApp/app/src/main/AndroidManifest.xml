@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cartapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CartApp">
+        <activity
+            android:name=".ListEstados"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPaganiSeis"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPaganiCinco"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPaganiCuatro"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPaganiTres"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPaganiDos"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPagani"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloBugattiSeis"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloBugattiCinco"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloBugattiCuatro"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloBugattiTres"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloBugattiDos"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloBugatti"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloLamborghiniSeis"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloLamborghiniCinco"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloLamborghiniCuatro"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloLamborghiniTres"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloLamborghiniDos"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloLamborghini"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPorscheSeis"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPorscheCinco"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPorscheCuatro"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPorscheTres"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPorscheDos"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloPorsche"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloMaseratiSeis"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloMaseratiCinco"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloMaseratiCuatro"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloMaseratiTres"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloMaseratiDos"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloMaserati"
+            android:exported="false" />
+        <activity
+            android:name=".MarcaModelLamborghini"
+            android:exported="false" />
+        <activity
+            android:name=".MarcaModelPorsche"
+            android:exported="false" />
+        <activity
+            android:name=".MarcaModelPagani"
+            android:exported="false" />
+        <activity
+            android:name=".MarcaModelBugatti"
+            android:exported="false" />
+        <activity
+            android:name=".Ver"
+            android:exported="false" />
+        <activity
+            android:name=".MarcaModelMaserati"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloFerrariSeis"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloFerrariCinco"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloFerrariCuatro"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloFerrariTres"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloFerrariDos"
+            android:exported="false" />
+        <activity
+            android:name=".ModeloFerrari"
+            android:exported="false" />
+        <activity
+            android:name=".MarcaModelFerrari"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

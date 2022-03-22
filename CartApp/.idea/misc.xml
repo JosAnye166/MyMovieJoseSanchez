@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_list_estados.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_marca_model_bugatti.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_marca_model_ferrari.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_marca_model_lamborghini.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_marca_model_maserati.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_marca_model_pagani.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_marca_model_porsche.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_bugatti.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_bugatti_cinco.xml" value="0.18" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_bugatti_cuatro.xml" value="0.12" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_bugatti_dos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_bugatti_seis.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_bugatti_tres.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_ferrari.xml" value="0.15" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_ferrari_cinco.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_ferrari_cuatro.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_ferrari_dos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_ferrari_seis.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_ferrari_tres.xml" value="0.22" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_lamborghini.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_lamborghini_cinco.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_lamborghini_cuatro.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_lamborghini_dos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_lamborghini_seis.xml" value="0.15" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_lamborghini_tres.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_maserati.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_maserati_cinco.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_maserati_cuatro.xml" value="0.18" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_maserati_dos.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_maserati_seis.xml" value="0.18" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_maserati_tres.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_pagani.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_pagani_cinco.xml" value="0.12" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_pagani_cuatro.xml" value="0.18" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_pagani_dos.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_pagani_seis.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_pagani_tres.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_porsche.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_porsche_cinco.xml" value="0.15" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_porsche_cuatro.xml" value="0.18" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_porsche_dos.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_porsche_seis.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_modelo_porsche_tres.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_poke_tipo_agua.xml" value="0.33" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_poke_tipo_dragon.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_poke_tipo_electrico.xml" value="0.5" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_poke_tipo_fuego.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_poke_tipo_hielo.xml" value="0.33" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_poke_tipo_siniestro.xml" value="0.25" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_agua.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_agua_cinco.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_agua_cuatro.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_agua_dos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_agua_seis.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_agua_tres.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_dragon.xml" value="0.22" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_dragon_cinco.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_dragon_cuatro.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_dragon_dos.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_dragon_seis.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_dragon_tres.xml" value="0.1" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_electrico.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_electrico_cinco.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_electrico_cuatro.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_electrico_dos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_electrico_seis.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_electrico_tres.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_fuego.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_fuego_cinco.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_fuego_cuatro.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_fuego_dos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_fuego_seis.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_fuego_tres.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_hielo.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_hielo_cinco.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_hielo_cuatro.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_hielo_dos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_hielo_seis.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_hielo_tres.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_siniestro.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_siniestro_cinco.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_siniestro_cuatro.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_siniestro_dos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_siniestro_seis.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/activity_tipo_siniestro_tres.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/frank/AndroidStudioProjects/CartApp/app/src/main/res/layout/marca_model_ferrari.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
