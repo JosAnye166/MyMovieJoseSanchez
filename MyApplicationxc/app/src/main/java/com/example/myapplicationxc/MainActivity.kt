@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+//adkdk
 
 @Composable
 fun Greeting(name: String) {
