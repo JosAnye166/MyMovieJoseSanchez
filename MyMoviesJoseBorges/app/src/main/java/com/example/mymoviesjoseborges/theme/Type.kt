@@ -1,4 +1,4 @@
-package com.example.mymoviesjoseborges.ui.theme
+package com.zeus.mymovi.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
