@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//adkdk
+//adkdk asas
 
 @Composable
 fun Greeting(name: String) {
