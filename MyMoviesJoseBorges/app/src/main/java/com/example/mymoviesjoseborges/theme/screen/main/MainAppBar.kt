@@ -1,4 +1,4 @@
-package com.zeus.mymovi.ui.theme.screen.main
+package com.example.mymoviesjoseborges.ui.theme.screen.main
 
 import androidx.compose.material.Icon
 import androidx.compose.material.IconButton
@@ -10,7 +10,7 @@ import androidx.compose.material.icons.filled.Share
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.stringResource
-import com.zeus.mymovi.R
+import com.example.mymoviesjoseborges.R
 
 
 @Composable

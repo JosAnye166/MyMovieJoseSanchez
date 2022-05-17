@@ -1,4 +1,4 @@
-package com.zeus.mymovi.ui.theme.screen.main
+package com.example.mymoviesjoseborges.ui.theme.screen.main
 
 import android.icu.text.CaseMap
 import androidx.compose.foundation.ExperimentalFoundationApi
@@ -28,8 +28,8 @@ import androidx.navigation.NavHostController
 import coil.annotation.ExperimentalCoilApi
 import coil.compose.rememberAsyncImagePainter
 import coil.compose.rememberImagePainter
-import com.zeus.mymovi.model.MediaItem
-import com.zeus.mymovi.model.getMedia
+import com.example.mymoviesjoseborges.model.MediaItem
+import com.example.mymoviesjoseborges.model.getMedia
 
 
 @OptIn(ExperimentalFoundationApi::class)

@@ -21,8 +21,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import coil.annotation.ExperimentalCoilApi
 import coil.compose.rememberAsyncImagePainter
-import com.zeus.mymovi.model.MediaItem
-import com.zeus.mymovi.model.getMedia
+import com.example.mymoviesjoseangel.model.MediaItem
+import com.example.mymoviesjoseangel.model.getMedia
 
 
 @OptIn(ExperimentalFoundationApi::class)

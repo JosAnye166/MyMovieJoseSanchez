@@ -1,4 +1,4 @@
-package com.zeus.mymovi.ui.theme.screen.main
+package com.example.mymoviesjoseborges.ui.theme.screen.main
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.Scaffold

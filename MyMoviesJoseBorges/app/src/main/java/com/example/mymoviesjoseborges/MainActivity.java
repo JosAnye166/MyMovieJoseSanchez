@@ -9,8 +9,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.zeus.mymovi.ui.theme.screen.main.MainScreen
-import com.zeus.mymovi.ui.theme.screen.main.detail.DetailScreen
+import com.example.mymoviesjoseborges.ui.theme.screen.main.MainScreen
+import com.example.mymoviesjoseborges.ui.theme.screen.main.detail.DetailScreen
 
 class MainActivity : ComponentActivity() {
         override fun onCreate(savedInstanceState: Bundle?) {
